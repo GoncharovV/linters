@@ -1,0 +1,5 @@
+{
+  "extends": ["@vadiminator/eslint-config-angular"],
+  // это может быть @qoollo/eslint-config-angular
+  "ignorePatterns": ["packages"]
+}

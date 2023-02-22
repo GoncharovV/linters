@@ -1,0 +1,17 @@
+{
+  "name": "@qoollo/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "root": true,
+  "license": "ISC",
+  "dependencies": {
+    "@vadiminator/eslint-config-angular": "^0.0.1",
+    "eslint-config-angular-vadiminator": "^0.0.2"
+  }
+}
