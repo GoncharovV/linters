@@ -20,3 +20,16 @@ npm i --save-dev @vadiminator/eslint-config-angular
   ]
 }
 ```
+
+### :wrench: Ручной запуск
+
+Для запуска можно использовать следующие команды
+
+```json
+{
+  "lint:ts": "npx eslint src",
+  "lint:js": "npx eslint **/*.js",
+  "lint:ts:fix": "npx eslint --fix src",
+  "lint:js:fix": "npx eslint **/*.js --fix"
+}
+```
