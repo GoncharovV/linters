@@ -1,5 +1,4 @@
 # :whale: @Qoollo/eslint-config-angular :whale:
-:heavy_exclamation_mark: :heavy_exclamation_mark: ```Ожидается переименование на @qoollo/eslint-config-angular```
 
 Предоставляет базовую конфигурацию ESLint для форматирования JS и TS файлов, используемую в компании Qoollo.
 Используется как дополнение к `@vadiminator/eslint-config` для работы с Angular

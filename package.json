@@ -1,7 +1,7 @@
 {
   "name": "@vadiminator/linters",
   "version": "1.0.0",
-  "description": "",
+  "description": "Qoollo linters",
   "main": "index.js",
   "scripts": {},
   "keywords": [
