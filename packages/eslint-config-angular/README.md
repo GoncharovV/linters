@@ -21,7 +21,7 @@ npm i --save-dev @vadiminator/eslint-config-angular
 }
 ```
 
-### :wrench: Ручной запуск
+### :bulb: Ручной запуск
 
 Для запуска можно использовать следующие команды
 

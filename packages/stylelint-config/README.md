@@ -18,7 +18,7 @@ npm i --save-dev @vadiminator/stylelint-config
 }
 ```
 
-### :wrench: Ручной запуск
+### :bulb: Ручной запуск
 
 Для запуска можно использовать следующие команды
 
