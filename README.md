@@ -1,4 +1,4 @@
-# Qoollo linter configurations
+# :whale: Qoollo linter configurations :whale:
 
 Монорепозиторий для конфигураций линтеров, используемых в компании Qoollo
 

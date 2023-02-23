@@ -1,4 +1,4 @@
-# @vadiminator/prettier-config :whale:
+# :whale: @Qoollo/prettier-config :whale:
 
 Базовый конфиг Prettier компании Qoollo.
 

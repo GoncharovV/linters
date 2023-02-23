@@ -1,4 +1,4 @@
-# @vadiminator/stylelint-config :whale:
+# :whale: @Qoollo/stylelint-config :whale:
 
 Базовая конфигурация Stylelint компании Qoollo
 
