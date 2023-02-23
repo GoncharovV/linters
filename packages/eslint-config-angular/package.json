@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-angular",
-  "version": "1.0.0",
+  "name": "@vadiminator/eslint-config-angular",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
     "@angular-eslint/eslint-plugin-template": "^14.1.2",
     "@angular-eslint/schematics": "^14.1.2",
     "@angular-eslint/template-parser": "^14.1.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

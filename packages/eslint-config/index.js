@@ -1,22 +1,20 @@
-const ignorePatterns = [
-  "projects/**/*",
-  "e2e/**",
-  "src/app/api/**",
-  "src/app/async-api/**",
-  "src/assets/scripts/**",
-  "node_modules",
-  "dist",
-  "mock-server",
-  "jest.config.js",
-  "fixtures",
-  "coverage",
-  "__snapshots__",
-  "karma.conf.js",
-  "**/*.spec.ts",
-];
-
 module.exports = {
-  ignorePatterns: ignorePatterns,
+  ignorePatterns: [
+    "projects/**/*",
+    "e2e/**",
+    "src/app/api/**",
+    "src/app/async-api/**",
+    "src/assets/scripts/**",
+    "node_modules",
+    "dist",
+    "mock-server",
+    "jest.config.js",
+    "fixtures",
+    "coverage",
+    "__snapshots__",
+    "karma.conf.js",
+    "**/*.spec.ts",
+  ],
   plugins: [
     "@typescript-eslint",
     "prefer-arrow",
@@ -32,7 +30,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ["*.ts", "*.tsx", "*.js", "*.jsx"],
+      files: ["*.ts", "*.js"],
       rules: {
         "import/no-unresolved": "off",
         "array-callback-return": [
