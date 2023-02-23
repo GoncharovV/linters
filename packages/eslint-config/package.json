@@ -1,6 +1,6 @@
 {
   "name": "@vadiminator/eslint-config",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Конфигурация ESLint компании Qoollo",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/VadimYoung/linters"
   },
-  "author": "",
+  "author": {
+    "name": "Qoollo Team"
+  },
   "license": "ISC",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.44.0",

@@ -1,8 +1,8 @@
-# @vadiminator/stylelint-config
+# @vadiminator/stylelint-config :whale:
 
 Базовая конфигурация Stylelint компании Qoollo
 
-## Usage
+## :dart: Использование
 
 1. Установить из NPM
 

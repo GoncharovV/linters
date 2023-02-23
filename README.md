@@ -2,6 +2,9 @@
 
 Монорепозиторий для конфигураций линтеров, используемых в компании Qoollo
 
+:heavy_exclamation_mark: :heavy_exclamation_mark: ```Ожидается переименование на @qoollo/...```
+
+
 ### Конфигурации
 
 | **Package**                                                                                        | **Version**                                                                         | **README**                                                                                      | **Downloads**                                                                                                                         |

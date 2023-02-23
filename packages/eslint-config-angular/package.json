@@ -9,7 +9,9 @@
     "eslintconfig",
     "eslint-config-angular"
   ],
-  "author": "",
+  "author": {
+    "name": "Qoollo Team"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",

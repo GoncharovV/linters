@@ -1,10 +1,10 @@
-# @vadiminator/eslint-config
+# @vadiminator/eslint-config :whale:
 :heavy_exclamation_mark: :heavy_exclamation_mark: ```Ожидается переименование на @qoollo/eslint-config```
 
 Предоставляет базовую конфигурацию ESLint для форматирования JS и TS файлов, используемую в компании Qoollo.
 Как правило, используется в связке с `@vadiminator/eslint-config-angular`
 
-## Использование
+## :dart: Использование
 
 1) Установить из NPM
 
@@ -19,12 +19,12 @@ npm i --save-dev @vadiminator/eslint-config
 }
 ```
 
-## Обратите внимание
+## :exclamation: Обратите внимание
 Данный пакет уже включает в себя `eslint` и набор плагинов для него,
 так что эти зависимости следует убрать из `package.json` проекта,
 в который подключается данный пакет. 
 
-## Используемые дополнения
+## :electric_plug: Используемые дополнения
 
 `@vadiminator/eslint-config` включает:
 

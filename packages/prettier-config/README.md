@@ -1,8 +1,8 @@
-# @vadiminator/prettier-config
+# @vadiminator/prettier-config :whale:
 
 Базовый конфиг Prettier компании Qoollo.
 
-## Использование
+## :dart: Использование
 
 1. Установить из NPM
 
