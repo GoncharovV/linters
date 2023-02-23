@@ -1,12 +1,18 @@
 {
   "name": "@vadiminator/eslint-config",
   "version": "0.0.2",
-  "description": "",
+  "description": "Конфигурация ESLint компании Qoollo",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VadimYoung/linters"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {

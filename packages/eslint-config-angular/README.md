@@ -1,19 +1,23 @@
-# qoollo eslint-config-angular
+# @vadiminator/eslint-config-angular
+:heavy_exclamation_mark: :heavy_exclamation_mark: ```Ожидается переименование на @qoollo/eslint-config-angular```
 
-ESlint config includes Qoollo rules for Angular applications. Designed to use with ES LINT CONFIG QOOLLO
+Предоставляет базовую конфигурацию ESLint для форматирования JS и TS файлов, используемую в компании Qoollo.
+Используется как дополнение к `@vadiminator/eslint-config` для работы с Angular
 
-## Usage
+## Использование
 
-1. Install from npm
+1) Установить из NPM
 
 ```bash
-npm i --save-dev INSERT_NAME_HERE
+npm i --save-dev @vadiminator/eslint-config-angular
 ```
 
-2. Then, need to include recommendation configurations sets to .eslintrc. We need to choose base configuration, and any necessary additional configs:
-
-```js
+3) Создать в корне проекта файл `.eslintrc` с указанным содержимым
+```bash
 {
-  extends: ['INSER_HERE'],
+  "extends": [
+    "@vadiminator/eslint-config",
+    "@vadiminator/eslint-config-angular"
+  ]
 }
 ```
