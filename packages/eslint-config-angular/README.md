@@ -11,7 +11,7 @@
 npm i --save-dev @vadiminator/eslint-config-angular
 ```
 
-3) Создать в корне проекта файл `.eslintrc` с указанным содержимым
+2) Создать в корне проекта файл `.eslintrc` с указанным содержимым
 ```bash
 {
   "extends": [

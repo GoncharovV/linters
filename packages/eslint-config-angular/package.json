@@ -1,6 +1,6 @@
 {
   "name": "@vadiminator/eslint-config-angular",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Дополнение к базовой конфигурации ESLint компании Qoollo для работы с Angular",
   "main": "index.js",
   "scripts": {},
