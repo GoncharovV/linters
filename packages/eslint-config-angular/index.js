@@ -35,14 +35,6 @@ module.exports = {
           "error",
         "@angular-eslint/template/banana-in-box": "error",
         "@angular-eslint/template/click-events-have-key-events": "error",
-        "@angular-eslint/component-selector": [
-          "error",
-          {
-            type: "element",
-            prefix: "dekart",
-            style: "kebab-case",
-          },
-        ],
         "@angular-eslint/template/conditional-complexity": [
           "error",
           {
@@ -62,12 +54,6 @@ module.exports = {
         "@angular-eslint/template/no-distracting-elements": "error",
         "@angular-eslint/template/no-duplicate-attributes": "error",
         "@angular-eslint/template/no-negated-async": "error",
-        "@angular-eslint/pipe-prefix": [
-          "error",
-          {
-            prefixes: ["dekart"],
-          },
-        ],
         "@angular-eslint/template/use-track-by-function": "error",
       },
     },
